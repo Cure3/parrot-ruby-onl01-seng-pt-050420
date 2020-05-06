@@ -1,4 +1,4 @@
-def parrot("string")
-  puts "string"
-  "string"
+def parrot("name")
+  puts "name"
+  "name"
 end
